@@ -12,7 +12,7 @@ public:
 	void perkenalan() {
 		cout << "Hallo saya Function dari derived class";
 	}
-};
+}; 
 int main() {
 	derivedClass a;
 	a.perkenalan();
