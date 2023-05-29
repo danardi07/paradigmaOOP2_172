@@ -18,7 +18,7 @@ public:
 		cout << "y =" << y << endl;
 	}
 };
-int main() {
+int main() { 
 	AbtraksiKlas ak;
 	ak.setXY("Yogyakarta", "Kampus");
 	ak.display();
