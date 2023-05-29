@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paradigmaoop_part2", "paradigmaoop_part2\paradigmaoop_part2.vcxproj", "{5A979DE9-D763-4310-9DA4-BCC208B3FBE4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program noOverriding", "paradigmaoop_part2\paradigmaoop_part2.vcxproj", "{5A979DE9-D763-4310-9DA4-BCC208B3FBE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program noPewarisan", "program noPewarisan\program noPewarisan.vcxproj", "{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{5A979DE9-D763-4310-9DA4-BCC208B3FBE4}.Release|x64.Build.0 = Release|x64
 		{5A979DE9-D763-4310-9DA4-BCC208B3FBE4}.Release|x86.ActiveCfg = Release|Win32
 		{5A979DE9-D763-4310-9DA4-BCC208B3FBE4}.Release|x86.Build.0 = Release|Win32
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Debug|x64.ActiveCfg = Debug|x64
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Debug|x64.Build.0 = Debug|x64
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Debug|x86.Build.0 = Debug|Win32
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Release|x64.ActiveCfg = Release|x64
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Release|x64.Build.0 = Release|x64
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Release|x86.ActiveCfg = Release|Win32
+		{4F1C8D23-EBBB-4C02-903B-345E6B18EC38}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
